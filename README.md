@@ -3,7 +3,8 @@
 
 This project is an interactive Power BI dashboard built using a dataset of over 1,000 space missions. It visualizes trends in global space missions, company performance, mission outcomes, and rocket activity over time.
 
-![Dashboard Screenshot](./dashboard-image.png)
+![Dashboard Screenshot](missionspace.png
+
 
 ---
 
