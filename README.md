@@ -1,7 +1,7 @@
 # space-mission-dashboard
 # 🚀 Space Mission Dashboard – Power BI Project
 
-This project is an interactive Power BI dashboard built using a dataset of over 1,000 space missions. It visualizes trends in global space missions, company performance, mission outcomes, and rocket activity over time.
+This project is an interactive Power BI dashboard built using a dataset of over 4631 space missions. It visualizes trends in global space missions, company performance, mission outcomes, and rocket activity over time.
 
 ![Dashboard Screenshot](missionspace.png)
 
@@ -29,10 +29,7 @@ This project is an interactive Power BI dashboard built using a dataset of over 
 
 
 
-## 📁 Dataset
 
-- Source: [Kaggle - Space Missions Dataset](https://www.kaggle.com/datasets/alexanderbader/space-missions)
-- Includes: Mission name, company, rocket, location, mission status, cost, and date
 
 
 
