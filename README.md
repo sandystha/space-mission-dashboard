@@ -40,6 +40,7 @@ This project is an interactive Power BI dashboard built using a dataset of over 
 
 Dashboard view showing:
 - KPIs and success metrics
+  ![kpi Screenshot](kpi.png).
 - Company-wise and location-wise filters
 - Mission activity timeline
 
