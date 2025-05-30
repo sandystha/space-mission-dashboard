@@ -42,9 +42,10 @@ Dashboard view showing:
 - KPIs and success metrics
   ![kpi Screenshot](kpi.png).
 - Company-wise and location-wise filters
+  ![company wise and location wise filter Screenshot](filter.png).
 - Mission activity timeline
 
----
+
 
 ## 🧠 Skills Practiced
 
