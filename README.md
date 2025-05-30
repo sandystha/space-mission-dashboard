@@ -56,7 +56,7 @@ Dashboard view showing:
 
 ## 🔗 Connect With Me
 
-💬 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+💬 [LinkedIn](https://www.linkedin.com/in/sandipstha12)  
 📫 Email: psth117@gmail.com
 
 
