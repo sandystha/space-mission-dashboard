@@ -44,6 +44,7 @@ Dashboard view showing:
 - Company-wise and location-wise filters
   ![company wise and location wise filter Screenshot](filter.png).
 - Mission activity timeline
+    ![mission activity timeline](mission over time.png).
 
 
 
